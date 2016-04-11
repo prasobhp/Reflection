@@ -1,0 +1,17 @@
+1)Installed git.
+2)installed sublim.
+3)versions -for checking the history of files.
+4)How could having easy access to the entire history of 
+a file make you a more efficient programmer in the long term?
+ans:Can compare the older versions to check for an error introduced 
+in development process.
+5)What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+ans:
+pros:There will not be many unnecessory versions.
+cons:You may miss to commit and lose the changes you made(Human error)
+6)Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Ans:Git deals with code which has many files so a version of each file is required for proper tracking.
+7)How can you use the commands git log and git diff to view the history of files?
+git log gives the info about all the commits and diff gives the difference between two commits.
+8)Now that you have your workspace set up, what do you want to try using Git for?
+Ans:For new projects.

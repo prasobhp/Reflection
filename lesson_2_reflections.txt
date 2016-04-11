@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+ans: To add an empty git repository with .git folder for the version keeping metadata.
