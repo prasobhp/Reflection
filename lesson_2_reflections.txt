@@ -1,2 +1,14 @@
-What happens when you initialize a repository? Why do you need to do it?
+1)What happens when you initialize a repository? Why do you need to do it?
 ans: To add an empty git repository with .git folder for the version keeping metadata.
+
+2)How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area contains the files which you want to commit .
+3)How can you use the staging area to make sure you have one commit per logical change?
+Ans:Staging area helps to select the files which can be the part of a logical solution.
+4)What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Ans:When introducing a new feature which is like an experiment.
+branches will not interfear with the main branch .
+5)How do the diagrams help you visualize the branch structure?
+Ans:The graph is crystal clear so that we can identify how the check ins are organized.
+6)What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Ans:Changes in both branches will be brought to a single version.
