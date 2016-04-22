@@ -15,3 +15,4 @@ Ans:Git deals with code which has many files so a version of each file is requir
 git log gives the info about all the commits and diff gives the difference between two commits.
 8)Now that you have your workspace set up, what do you want to try using Git for?
 Ans:For new projects.
+9
